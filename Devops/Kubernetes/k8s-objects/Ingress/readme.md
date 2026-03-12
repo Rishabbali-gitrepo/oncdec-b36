@@ -1,5 +1,7 @@
 **Ingress**
-- Ingress is a Kubernetes resource that manages external HTTP/HTTPS access to services inside the cluster 
+- Ingress is a Kubernetes resource that manages external HTTP/HTTPS access to services inside the cluster
+  
+<img width="1303" height="700" alt="image" src="https://github.com/user-attachments/assets/244dc10e-929d-4f07-b9e9-8833a1241151" />
 
 
 
