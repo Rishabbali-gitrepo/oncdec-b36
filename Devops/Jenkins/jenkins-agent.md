@@ -20,3 +20,9 @@ sudo apt update
 sudo apt install fontconfig openjdk-21-jre -y
 ````
 <img width="1063" height="118" alt="image" src="https://github.com/user-attachments/assets/4c7cfd9f-9602-4681-a3a1-a99b3e16cd9e" />
+
+### go to jenkins click on manage jenkins(settings) and add creds
+<img width="1650" height="906" alt="image" src="https://github.com/user-attachments/assets/5ebaf5c5-040b-4072-a4c4-c756a003ea27" />
+<img width="1303" height="301" alt="image" src="https://github.com/user-attachments/assets/228eba05-025b-41e9-955b-84699b89eb80" />
+<img width="706" height="820" alt="image" src="https://github.com/user-attachments/assets/66e013ae-0d4b-4eca-a140-b1600763947e" />
+
