@@ -26,3 +26,9 @@ sudo apt install fontconfig openjdk-21-jre -y
 <img width="1303" height="301" alt="image" src="https://github.com/user-attachments/assets/228eba05-025b-41e9-955b-84699b89eb80" />
 <img width="706" height="820" alt="image" src="https://github.com/user-attachments/assets/66e013ae-0d4b-4eca-a140-b1600763947e" />
 
+### add new node
+<img width="1648" height="812" alt="image" src="https://github.com/user-attachments/assets/9488a4af-5003-4c08-a842-2b59d18bd93c" />
+<img width="1522" height="472" alt="image" src="https://github.com/user-attachments/assets/5560018e-517b-4104-b552-a63dc02ac544" />
+- node: in host section add worker node ip
+
+<img width="1546" height="226" alt="image" src="https://github.com/user-attachments/assets/310fcc1c-2ac8-4e48-840c-4f8976cbb33f" />
